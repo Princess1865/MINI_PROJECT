@@ -1,0 +1,664 @@
+.file{
+    color:blue;
+    margin-left:5px;
+    font-size:18px;
+    font-weight:bold;
+   
+}
+
+
+
+.navbar{
+ background:#011182;
+ font-family:Galaxy;
+    }
+.navdiv{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    }
+
+li{
+    list-style:none;
+    display:inline-block;
+}
+
+.logo a{
+    font-size:35px;
+    font-weight:500;
+    color:yellow;
+    font-family:Galaxy;
+    
+    }
+
+li a{
+    color:white;
+    font-size:18px;
+    font-weight:bold;
+    color:white;
+    margin-top:15px
+    }
+
+button{
+    background-color:#021496;
+    color:white;
+    margin-left:10px;
+    border-radius:10px;
+    font-size:18px;
+    font-weight:bold;
+    padding:20px;
+    }
+.navbar{
+ background:#020e96;
+ font-family:fantacy;
+    }
+.navdiv{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    }
+
+li{
+    list-style:none;
+    display:inline-block;
+}
+
+.logo a{
+    font-size:35px;
+    font-weight:500;
+    color:yellow;
+    font-family:monospace;
+    
+    }
+
+li a{
+    color:white;
+    font-size:18px;
+    font-weight:bold;
+    color:white;
+    margin-top:15px
+    }
+
+button{
+    background-color:#3c4cfc;
+    color:white;
+    margin-left:10px;
+    border-radius:10px;
+    font-size:18px;
+    font-weight:bold;
+    padding:20px;
+    }
+.pictures{
+    display:flex;
+    max-width:100%;
+    justify-content:space-between;
+    flex-wrap:wrap;  
+}
+.eta{
+    width:300px;
+    height:300px;
+    border-radius:100px;
+}
+
+.eta:hover{
+    border:5px outset navy;
+}
+
+body{
+background-position: right bottom, left top;
+background-color:#92a8d1;
+background-repeat:no-repeat;
+background-attatchment:fixed;
+background-size:100% 100%; 
+height: 500px;
+background-position: center; 
+background-size: cover; 
+}
+
+.John{
+font-family:cursive;
+background-color:purple;
+color:white;
+border:4px outset white;
+display:block;
+}
+
+#first{
+float:right;
+display:inline;
+}
+
+.Evans{
+font-family:monospace;
+background-color:red;
+color:black;
+border:4px groove purple;
+font-size:80;
+}
+
+#second{
+float:right;
+display:inline;
+}
+
+.Atta{
+font-family:Century Gothic;
+background-color:yellow;
+color:red;
+border:4px solid red;
+}
+
+#third{
+float:left;
+display:inline;
+}
+
+
+.Mills{
+font-family:cursive;
+background-color:purple;
+color:white;
+border:4px outset white;
+display:block;
+}
+
+
+#fourth{
+float:right;
+display:inline;
+}
+
+
+.five{
+font-family:monospace;
+background-color:red;
+color:black;
+border:4px groove purple;
+font-size:80;
+}
+
+#fifth{
+float:right;
+display:inline;
+}
+
+
+
+#background-video{
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.hana1{
+    background-position: right bottom, left top;
+    background-color:#92a8d1;
+    background-repeat:no-repeat;
+    background-attatchment:fixed;
+    background-size:100% 100%; 
+    height: 500px;
+    background-position: center; 
+    background-size: cover; 
+    }
+    
+    
+    .navbar2{
+     background:#011182;
+     font-family:cracked johnnie;
+        }
+    
+    .navdiv1{
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+        }
+    
+    li{
+        list-style:none;
+        display:inline-block;
+    }
+    
+    .logo1 a{
+        font-size:35px;
+        font-weight:500;
+        color:yellow;
+        font-family:Galaxy;
+        
+        }
+    
+    li a{
+        color:white;
+        font-size:18px;
+        font-weight:bold;
+        color:white;
+        margin-top:15px
+        }
+    
+    button{
+        background-color:#021496;
+        color:white;
+        margin-left:10px;
+        border-radius:10px;
+        font-size:18px;
+        font-weight:bold;
+        padding:20px;
+        }
+    
+    .navbar1{
+     background:#020e96;
+     font-family:fantacy;
+        }
+    
+    .navdiv1{
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+        }
+    
+    li{
+        list-style:none;
+        display:inline-block;
+    }
+    
+    .logo1 a{
+        font-size:35px;
+        font-weight:500;
+        color:yellow;
+        font-family:monospace;
+        
+        }
+    
+    li a{
+        color:white;
+        font-size:18px;
+        font-weight:bold;
+        color:white;
+        margin-top:15px
+        }
+    
+    button{
+        background-color:#3c4cfc;
+        color:white;
+        margin-left:10px;
+        border-radius:10px;
+        font-size:18px;
+        font-weight:bold;
+        padding:20px;
+        }
+    
+    .John1{
+    font-family:cursive;
+    color:white;
+    border:4px outset white;
+    display:block;
+    }
+    
+    #first1{
+    float:right;
+    display:inline;
+    }
+    
+    .Evans1{
+    font-family:monospace;
+    color:black;
+    border:4px groove purple;
+    font-size:80;
+    }
+    
+    #second1{
+    float:right;
+    display:inline;
+    }
+    
+    .Atta1{
+    font-family:Century Gothic;
+    color:red;
+    border:4px solid red;
+    }
+    
+    #third1{
+    float:left;
+    display:inline;
+    }
+    
+    
+    .Mills1{
+    font-family:cursive;
+    color:white;
+    border:4px outset white;
+    display:block;
+    }
+    
+    
+    #fourth1{
+    float:right;
+    display:inline;
+    }
+    
+    
+    .five1{
+    font-family:monospace;
+    color:black;
+    border:4px groove purple;
+    font-size:80;
+    }
+    
+    #fifth1{
+    float:right;
+    display:inline;
+    }
+
+
+
+
+
+
+    .book{
+        background-repeat:repeat;
+        }
+        
+        .navbar2{
+         background:orange;
+         font-family:Galaxy;
+            }
+        
+        .navdiv2{
+            display:flex;
+            align-items:center;
+            justify-content:space-between;
+            }
+        
+        li{
+            list-style:none;
+            display:inline-block;
+        }
+        
+        .logo2 a{
+            font-size:35px;
+            font-weight:500;
+            color:yellow;
+            font-family:Galaxy;
+            
+            }
+        
+        li a{
+            color:white;
+            font-size:18px;
+            font-weight:bold;
+            color:yellow;
+            margin-top:15px
+            }
+        
+        button{
+            background-color:green;
+            color:white;
+            margin-left:10px;
+            border-radius:10px;
+            font-size:18px;
+            font-weight:bold;
+            padding:20px;
+            }
+        
+        .navbar2{
+         background:red;
+         font-family:fantacy;
+            }
+        
+        .navdiv2{
+            display:flex;
+            align-items:center;
+            justify-content:space-between;
+            }
+        
+        li{
+            list-style:none;
+            display:inline-block;
+        }
+        
+        .logo2 a{
+            font-size:35px;
+            font-weight:500;
+            color:yellow;
+            font-family:monospace;
+            
+            }
+        
+        li a{
+            color:white;
+            font-size:18px;
+            font-weight:bold;
+            color:yellow;
+            margin-top:15px
+            }
+        
+        button{
+            background-color:green;
+            color:purple;
+            margin-left:10px;
+            border-radius:10px;
+            font-size:18px;
+            font-weight:bold;
+            padding:20px;
+            }
+        
+        .dr2{
+        font-family:cracked johnnie;
+        color:red;
+        border:4px groove purple;
+        font-size:80;
+        background-color:green;
+        }
+        
+        #dr2{
+        float:left;
+        display:inline-flex;
+        }
+        
+        .kwame2{
+        font-family:Times;
+        color:yellow;
+        border:4px groove purple;
+        font-size:100;
+        background-color:red;
+        }
+        
+        #Kwame2{
+        float:right;
+        display:inline-flex;
+        }
+         
+        .nkrumah2{
+        font-family:fingerpop;
+        color:black;
+        border:4px groove purple;
+        font-size:100;
+        background-color:yellow;
+        }
+        
+        #nkrumah2{
+        float:left;
+        display:inline;
+        }
+        
+        .ugcc2{
+        font-family:cracked johnnie;
+        color:green;
+        border:4px groove rgb(94, 3, 94);
+        font-size:300;
+        background-color:black;
+        }
+        
+        
+        #ugcc2{
+        float:right;
+        display:inline;
+        }
+        
+        .red2{
+        font-family:Galaxy;
+        color:black;
+        border:4px groove purple;
+        font-size:300;
+        background-color:rgb(184, 14, 14);
+        }
+        
+        #red2{
+        float:left;
+        display:inline;
+        }
+        
+        .white2{
+        font-family:cracked johnnie;
+        color:wheat;
+        border:4px groove purple;
+        font-size:300;
+        background-color:green;
+        }
+        
+        #white2{
+        float:right;
+        display:flex;
+        }
+        
+        .border2{
+        border: 5px double plum;
+        }
+        
+        .class2{
+         display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 50%;
+        }
+
+
+
+
+.white3{
+    background-color: ivory;
+}
+        .navbar3{
+            background:orange;
+            font-family:Galaxy;
+               }
+           
+           .navdiv3{
+               display:block;
+               align-items:center;
+               justify-content:space-between;
+               }
+           
+           li{
+               list-style:none;
+               display:inline-block;
+           }
+           
+           .logo3 a{
+               font-size:35px;
+               font-weight:500;
+               color:yellow;
+               font-family:Galaxy;
+               
+               }
+           
+           li a{
+               color:white;
+               font-size:18px;
+               font-weight:bold;
+               color:yellow;
+               margin-top:15px
+               }
+           
+           button{
+               background-color:green;
+               color:white;
+               margin-left:10px;
+               border-radius:10px;
+               font-size:18px;
+               font-weight:bold;
+               padding:20px;
+               }
+           
+           .navbar3{
+            background:green;
+            font-family:fantacy;
+               }
+           
+           .navdiv3{
+               display:flex;
+               align-items:center;
+               justify-content:left;
+               }
+           
+           li{
+               list-style:none;
+               display:inline-block;
+           }
+           
+           .logo3 a{
+               font-size:35px;
+               font-weight:500;
+               color:yellow;
+               font-family:monospace;
+               
+               }
+           
+           li a{
+               color:white;
+               font-size:18px;
+               font-weight:bold;
+               color:white;
+               margin-top:15px
+               }
+           
+           button{
+               background-color:red;
+               color:purple;
+               margin-left:10px;
+               border-radius:10px;
+               font-size:18px;
+               font-weight:bold;
+               padding:20px;
+               }
+           
+           .pictures3{
+               display:flex;
+               max-width:100%;
+               justify-content:space-between;
+               flex-wrap:wrap;  
+           }
+           .eta3{
+               width:300px;
+               height:300px;
+               border-radius:100px;
+           }
+           
+           .eta3:hover{
+               border:5px outset navy;
+           }
+           
+           .gun3{
+           font-family:cracked johnnie;
+           color:green;
+           }
+           
+           #peace3{
+           color:red;
+           font-family:brush script;
+           }
+           
+           body{
+           background-color:#9ACD32;
+           }   
+
+           .intro{
+            font-family: tahoma;
+            color: #021496;
+            font-style: oblique;
+           }
